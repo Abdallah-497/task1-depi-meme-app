@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.abdallah.firstsession"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.abdallah.firstsession"
